@@ -199,7 +199,7 @@
         {
             "slug": "04.1-count_on",
             "title": "04.1-count_on",
-            "done": false,
+            "done": true,
             "path": "exercises/04.1-count_on",
             "translations": [
                 "es",
